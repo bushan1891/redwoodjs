@@ -1,0 +1,18 @@
+{
+  "index.html": {
+    "dynamicImports": [
+      "pages/NotFoundPage/NotFoundPage.jsx"
+    ],
+    "file": "assets/index-3d8a1bcb.js",
+    "isEntry": true,
+    "src": "index.html"
+  },
+  "pages/NotFoundPage/NotFoundPage.jsx": {
+    "file": "assets/NotFoundPage-5c59e73e.js",
+    "imports": [
+      "index.html"
+    ],
+    "isDynamicEntry": true,
+    "src": "pages/NotFoundPage/NotFoundPage.jsx"
+  }
+}
