@@ -1,14 +1,23 @@
 {
   "index.html": {
     "dynamicImports": [
+      "pages/HomePage/HomePage.jsx",
       "pages/NotFoundPage/NotFoundPage.jsx"
     ],
-    "file": "assets/index-3d8a1bcb.js",
+    "file": "assets/index-a0803783.js",
     "isEntry": true,
     "src": "index.html"
   },
+  "pages/HomePage/HomePage.jsx": {
+    "file": "assets/HomePage-7ad33882.js",
+    "imports": [
+      "index.html"
+    ],
+    "isDynamicEntry": true,
+    "src": "pages/HomePage/HomePage.jsx"
+  },
   "pages/NotFoundPage/NotFoundPage.jsx": {
-    "file": "assets/NotFoundPage-5c59e73e.js",
+    "file": "assets/NotFoundPage-be57c4dc.js",
     "imports": [
       "index.html"
     ],

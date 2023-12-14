@@ -1,4 +1,4 @@
-import{j as e}from"./index-3d8a1bcb.js";const n=()=>e.jsxs("main",{children:[e.jsx("style",{dangerouslySetInnerHTML:{__html:`
+import{j as e}from"./index-a0803783.js";const n=()=>e.jsxs("main",{children:[e.jsx("style",{dangerouslySetInnerHTML:{__html:`
               html, body {
                 margin: 0;
               }
